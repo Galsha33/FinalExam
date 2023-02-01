@@ -1,0 +1,24 @@
+.back{
+  background-color: rgba(36, 186, 151, 0.616);
+}
+
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 40vw;
+  margin-right: 40vw;
+  margin-top: 8vh;
+}
+
+.downladButton{
+  background-color: salmon;
+}
+
+.title{
+  text-align: center;
+  font-weight: 800;
+  font-size: 5vh;
+}
+
